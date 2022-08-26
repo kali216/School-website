@@ -1,1 +1,2 @@
-# School-website
+https://meharsuleiman.github.io/School-website/
+School-website
